@@ -1,6 +1,6 @@
 This repository contains companion software code supporting research paper titled "Feature Engineering for Structured Cyber Threat Intelligence: A Framework for Machine Learning Applications".
 
-It contains python notebooks utilized to engineer features from the CERT Insider Threat dataset (version r4.2) using the framework presented in the paper. The output feature set in the form of .csv dataset is also included.
+It contains python notebooks utilized to engineer features from the CERT Insider Threat dataset (version r4.2) using the framework presented in the paper. The output feature set in the form of .csv file is also included.
 
 The CERT r4.2 dataset was downloaded from this link: https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=508099
 
